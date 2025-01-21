@@ -1,4 +1,4 @@
-path: C:/Users/unduood/Desktop/starwarsproj
+path: C:/Users/unduood/Desktop/starwars-project
 train: images/train
 val: images/val
 test: unseen_images
