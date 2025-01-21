@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Anakin Skywalker"
+    },
+    {
+      "id": 1,
+      "name": "C-3PO"
+    },
+    {
+      "id": 2,
+      "name": "Darth Vader"
+    },
+    {
+      "id": 3,
+      "name": "Mace Windu"
+    },
+    {
+      "id": 4,
+      "name": "Obi-Wan"
+    },
+    {
+      "id": 5,
+      "name": "Padm\u00e9 Amidala"
+    },
+    {
+      "id": 6,
+      "name": "R2-D2"
+    },
+    {
+      "id": 7,
+      "name": "Yoda"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

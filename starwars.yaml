@@ -1,0 +1,13 @@
+path: C:/Users/unduood/Desktop/starwarsproj
+train: images/train
+val: images/val
+test: unseen_images
+names:
+  0: Anakin Skywalker
+  1: C-3PO
+  2: Darth Vader
+  3: Mace Windu
+  4: Obi-Wan
+  5: Padm\u00e9 Amidala
+  6: R2-D2
+  7: Yoda
